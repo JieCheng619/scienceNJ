@@ -1,0 +1,77 @@
+10
+
+dir
+0
+http://192.168.1.100:8890/svn/myRepository/trunk/scienceProject/WebRoot/resources/js/ext4.2/resources
+http://192.168.1.100:8890/svn/myRepository
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3d93ab22-0628-274c-9645-99af259f2c39
+
+css
+dir
+
+
+
+add
+
+ext-theme-access
+dir
+
+
+
+add
+
+ext-theme-classic
+dir
+
+
+
+add
+
+ext-theme-classic-sandbox
+dir
+
+
+
+add
+
+ext-theme-gray
+dir
+
+
+
+add
+
+ext-theme-neptune
+dir
+
+
+
+add
+
+themes
+dir
+
+
+
+add
+
